@@ -5,22 +5,22 @@
 ## 2.文件结构
 
 SmartMddicalKit
-├─ Code
-│    ├─ 安卓端代码
-│    ├─ 服务器代码
-│    └─ 树莓派代码
-├─ Demo Videos
-│    ├─ SmartMedicineKit.mp4
-│    └─ screen recording.mp4
-├─ Documents
-│    ├─ 可行性分析报告.doc
-│    ├─ 工作分配与进度.docx
-│    ├─ 技术分析报告.docx
-│    ├─ 架构.png
-│    ├─ 特色分析报告.docx
-│    ├─ 用户使用说明书.docx
-│    ├─ 详细设计说明书.doc
-│    └─ 项目设计报告.doc
-└─ README.md
+├─ Code<br/>
+│    ├─ 安卓端代码<br/>
+│    ├─ 服务器代码<br/>
+│    └─ 树莓派代码<br/>
+├─ Demo Videos<br/>
+│    ├─ SmartMedicineKit.mp4<br/>
+│    └─ screen recording.mp4<br/>
+├─ Documents<br/>
+│    ├─ 可行性分析报告.doc<br/>
+│    ├─ 工作分配与进度.docx<br/>
+│    ├─ 技术分析报告.docx<br/>
+│    ├─ 架构.png<br/>
+│    ├─ 特色分析报告.docx<br/>
+│    ├─ 用户使用说明书.docx<br/>
+│    ├─ 详细设计说明书.doc<br/>
+│    └─ 项目设计报告.doc<br/>
+└─ README.md<br/>
 
 
