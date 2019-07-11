@@ -4,14 +4,14 @@
 这是一个安卓端,数据库,树莓派三方交互的项目. 具体的介绍可以查看Documents下相关的文档,效果可以查看Demo Videos下有关的视频.
 ## 2.文件结构
 
-SmartMddicalKit
+SmartMddicalKit<br/>
 ├─ Code<br/>
 │    ├─ 安卓端代码<br/>
 │    ├─ 服务器代码<br/>
 │    └─ 树莓派代码<br/>
 ├─ Demo Videos<br/>
-│    ├─ SmartMedicineKit.mp4<br/>
-│    └─ screen recording.mp4<br/>
+│    ├─ SmartMedicineKit.mp4         #项目介绍视频 <br/>    
+│    └─ screen recording.mp4         #使用录频<br/>
 ├─ Documents<br/>
 │    ├─ 可行性分析报告.doc<br/>
 │    ├─ 工作分配与进度.docx<br/>
